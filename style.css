@@ -144,8 +144,13 @@ button {
         width: 60%;
         padding: 5rem 3rem;
     }
-    button{
+
+    button {
         width: 100%;
+    }
+
+    .third_compo {
+        margin-bottom: 2rem;
     }
 }
 
@@ -163,6 +168,10 @@ button {
         width: 60%;
         padding: 5rem 3rem;
     }
+
+    .third_compo {
+        margin-bottom: 2rem;
+    }
 }
 
 
@@ -178,5 +187,9 @@ button {
     .third_compo {
         width: 80%;
         padding: 5rem 3rem;
+    }
+
+    .third_compo {
+        margin-bottom: 2rem;
     }
 }
